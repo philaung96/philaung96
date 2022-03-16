@@ -1,5 +1,5 @@
-<h1 align="center"> Hello! I'm Phil Aung </h1>
-<h3 align="center"> Nice to meet you! </h3>
+<h1 align="center">WELCOME</h1>
+<h3 align="center"> Hello! I'm Phil Aung. Nice to meet you! </h3>
 <div align="center"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="400" height="300"/></div>
 </br>
 I am a full stack developer with passion for programming💻. React/Javascript is my favorite to write at the moment, but I'm happy with simply writing code and building things 😊.
